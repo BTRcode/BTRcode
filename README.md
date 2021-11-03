@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BTRcode
 - 👀 I’m interested in Block chain Technologies
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on various Block chain projects
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
 <!---
